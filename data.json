@@ -77,6 +77,12 @@
       "period": "02.2024 ",
       "description": "A fully working game has been developed. The main technology is the use of SPA without third-party libraries Design prepared and implemented from scratch. Algorithms for calculating the total bill have been developed. And an algorithm has been developed to save results using Localstorage technologies. The project used methods of writing extensible code ",
       "link": "https://rolling-scopes-school.github.io/kiriotis-JSFE2023Q4/nonograms/"
+    },
+    {
+      "title": "Developing of game \"IO\"",
+      "period": "04.2024 - ",
+      "description": "Joint development of a component library implemented in TypeScript without using third-party libraries. Participation in planning and design of modules. Active collaboration in the task manager using SCRUM technology. In the project I was involved in module refactoring and testing. Development of a routing module and creation of a UI library ",
+      "link": "https://github.com/Alexeykoh/IO"
     }
   ]
 }
